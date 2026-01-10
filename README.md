@@ -1,20 +1,11 @@
-# <!DOCTYPE html>
-
-# <html>
-
-# <head>
-
-# &nbsp;	<h1>React Suduko</h1>
-
-# </head>
-
-# <body>
-
-# &nbsp;	<h1>React Suduko</h1>
-
-# &nbsp;	<a href="https://vasileclaudiu.github.io/react-suduko/"><strong>DEMO</strong></a>
-
-# </body>
-
-# </html>
+<!DOCTYPE html>
+<html>
+<head>
+<h1>React Suduko</h1>
+</head>
+<body>
+<h1>React Suduko</h1>
+<a href="https://vasileclaudiu.github.io/react-suduko/"><strong>DEMO</strong></a>
+</body>
+</html>
 
